@@ -1,1 +1,1 @@
-# winnet-ar
+// Simulated content for README.md
